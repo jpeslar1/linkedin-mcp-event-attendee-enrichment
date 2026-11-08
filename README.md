@@ -1,5 +1,7 @@
 # linkedin-mcp-event-attendee-enrichment
 
+> **Part of the [AI SDR Kit](https://github.com/zevarihq/ai-sdr-kit), the open-source AI SDR harness.** Install the kit to give your agent the whole outbound playbook (setup SOP and every LinkedIn and email sequence), then run this play on top of it.
+
 A Claude Code prompt for working an event attendee list — conference, trade show, webinar, Luma meetup, Eventbrite event, LinkedIn Live audience — and resolving every attendee **live on LinkedIn** so the title in your outbound email is right on the day of the event, not the title the registration form caught six weeks ago.
 
 Sharing it because every "event lead enrichment" tool I've tried gets you a stale title and a fake-confident match.
